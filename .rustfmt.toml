@@ -1,0 +1,4 @@
+unstable_features   = true
+imports_granularity = "Crate"
+group_imports       = "One"
+imports_layout      = "Vertical"
